@@ -16,4 +16,4 @@ A new column titled Total Value was added, calculated as the product of Quantity
 Insights from the Cleaned Data
 The South region recorded the highest total sales value of ₦8,049.90 and the highest quantity sold, totaling 295 units.
 Usage
-This report serves as a guide for anyone interested in understanding the data cleaning process and the key insights derived from the cleaned dataset. For further analysis, feel free to explore the dataset and replicate the cleaning steps as needed.
+This report serves as a guide for anyone interested in understanding the data cleaning process and the key insights derived from the cleaned dataset.
